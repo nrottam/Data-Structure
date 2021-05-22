@@ -4,6 +4,7 @@
 # March - 2600
 # April - 2130
 # May - 2190
+#June - 1980
 
 # Create a list to store these monthly expenses and using that find out,
 expense = [2200,2350,2600,2130,2190]
